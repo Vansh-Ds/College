@@ -1,0 +1,19 @@
+1. wc - Counts words, lines and bytes in a file
+   (Word Count)
+
+	wc -l => lines only
+	wc -w => words only
+	wc -c => bytes only
+
+
+
+2. clear - clears the terminal screen
+
+
+
+
+3. cal - shows calender
+	
+	cal [month] [year]
+	cal 2025 => Shows calender for 2025
+	cal 9 2025 => shows calender for sep 2025
